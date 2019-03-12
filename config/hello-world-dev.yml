@@ -1,5 +1,5 @@
 city:
-  name: 深圳
+  name: 深圳shenzhen
 spring:
   rabbitmq:
     host: localhost
